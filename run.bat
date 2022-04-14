@@ -1,0 +1,1 @@
+C:\Python39\python.exe C:\Users\gregg\repos\sat24wallpaper\auto.py
